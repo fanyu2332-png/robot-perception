@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+runs/
+output.json
+
+.env
+
+.vscode/
+
+.DS_Store
+
+models/*.pt
+models/yoloe-26x-seg.pt
+
+runs/
